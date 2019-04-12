@@ -30,9 +30,9 @@
 ![Normal Bullets](https://github.com/KamyC/CSC413_Software-Development/blob/master/Tank_Game/csc413-tankgame-KamyC/src/Jinghan/Cao/source/preview1.png)
 ### Power Up
 After picking up the power up:
-![power Up](https://github.com/csc413-01-fa18/csc413-tankgame-KamyC/blob/master/src/Jinghan/Cao/source/preview3.png)   
+![power Up](https://github.com/KamyC/CSC413_Software-Development/blob/master/Tank_Game/csc413-tankgame-KamyC/src/Jinghan/Cao/source/preview3.png)   
 Your tanks bullets will become:
-![power Up](https://github.com/KamyC/CSC413_Software-Development/blob/master/Tank_Game/csc413-tankgame-KamyC/src/Jinghan/Cao/source/preview3.png)
+![power Up](https://github.com/KamyC/CSC413_Software-Development/blob/master/Tank_Game/csc413-tankgame-KamyC/src/Jinghan/Cao/source/preview2.png)
 ### Breakable wall and non-breakable wall:
 #### Breakable:
 ![Breakable wall](https://github.com/KamyC/CSC413_Software-Development/blob/master/Tank_Game/csc413-tankgame-KamyC/src/Jinghan/Cao/source/wallB.png)
